@@ -5,11 +5,6 @@ The Bookstore Management program is a comprehensive and colsole-based, yet user-
 <li>If you think we used ChatGPT & other AIs to develop this project, please headover to <a href="https://github.com/RaannaKasturi/bookstore-manager/tree/main/TrialAndError">TrialAndError</a> folder/sub-directory</li>
 <li>P.S.: We used web scraping tool to search books & blogs & tutorials.</li>
 
-<br>US: Still not convinced..?
-<br>YOU: No
-<br>US: Do we care.?
-<br>US: Oh! Hell, No.
-
 -----
 ### Live Demo:
 _coming soon_
